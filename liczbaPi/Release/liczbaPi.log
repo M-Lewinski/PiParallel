@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(55): warning C4101: 'x': unreferenced local variable
+main.cpp(82): warning C4101: 'x': unreferenced local variable
+main.cpp(106): warning C4101: 'x': unreferenced local variable
+main.cpp(139): warning C4101: 'x': unreferenced local variable
+  Generating code
+  3 of 13 functions (23.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  liczbaPi.vcxproj -> C:\Users\lewin\Documents\Visual Studio 2015\Projects\liczbaPi\Release\liczbaPi.exe
+  liczbaPi.vcxproj -> C:\Users\lewin\Documents\Visual Studio 2015\Projects\liczbaPi\Release\liczbaPi.pdb (Full PDB)
